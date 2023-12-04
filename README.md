@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Step0. Install python packages list in the requirements.txt using pip or conda
-
-> Step1. Download KKBox dataset from: https://www.kaggle.com/competitions/kkbox-churn-prediction-challenge/data
+>Step0. Install python packages list in the requirements.txt using pip or conda
+>Step1. Download KKBox dataset from: https://www.kaggle.com/competitions/kkbox-churn-prediction-challenge/data
 
 > Step2. Unzip the following four files and put them to the core/data/KKBox
 
